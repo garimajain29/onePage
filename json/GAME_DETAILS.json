@@ -1,0 +1,74 @@
+{
+  "GAMES": [
+      {
+        "NAME": "LEADERSHIP GAME",
+        "DESCRIPTION": "Based on the Japanese fable of Samurai and the 'Temple of Wisdom', the game helps junior and mid level managers to learn leadership principles and apply the same in their daily activities.",
+        "IMAGEURL": "pageImage/Leadership.png",
+        "LINKS": [{
+            "LINKNAME": "Desktop Demo Version",
+            "LINKDESC": "Desktop Version",
+            "LINKURL": "http://demo-leadership.enteetee-games.com/"
+          },
+		  {
+            "LINKNAME": "Desktop Full Version",
+            "LINKDESC": "Desktop Version",
+            "LINKURL": "http://main-leadership.enteetee-games.com/"
+          },
+		  {
+            "LINKNAME": "I-Pad Demo Version",
+            "LINKDESC": "I-Pad Version",
+            "LINKURL": "http://main-leadership.enteetee-games.com/"
+          }]
+        },
+      {
+        "NAME": "IGNITE FORCE",
+        "DESCRIPTION": "Built as a companion app for Salesforce, this game takes data from SFDC and gamifies the whole process with additional game elements for challenges and collaboration.",
+        "IMAGEURL": "pageImage/igniteForce.png",
+        "LINKS": [{
+            "LINKNAME": "Demo",
+            "LINKDESC": "Optimized for Ipad",
+            "LINKURL": "http://demo-sf.enteetee-games.com/client/"
+          }]
+      },
+	  {
+        "NAME": "RENAISSANCE DISCOVERY DOORS",
+        "DESCRIPTION": "A game built for customer engagement for the Renaissance Hotels which is a part of Marriot International.",
+        "IMAGEURL": "pageImage/DiscoveryDoors.png",
+        "LINKS": [{
+            "LINKNAME": "Demo",
+            "LINKDESC": "Optimized for Desktops",
+            "LINKURL": "http://ren-uat.enteetee-gamification.com/code/discovery/index.html"
+          }]
+      },
+	  {
+        "NAME": "SAP SAGEVILLE",
+        "DESCRIPTION": "This game helps to learn about different modules of SAP, with customized content as per the requirements of the organization.",
+        "IMAGEURL": "pageImage/SageVille.png",
+        "LINKS": [{
+            "LINKNAME": "Demo",
+            "LINKDESC": "Optimized for Ipad",
+            "LINKURL": "http://sap-demo.enteetee-games.com/"
+          }]
+      },
+	  {
+        "NAME": "MMS GREENVILLE",
+        "DESCRIPTION": "This game is built for tracking and motivating the BPO task-force and gamify the whole process of completing tasks.",
+        "IMAGEURL": "pageImage/MMSGreenVille.png",
+        "LINKS": [{
+            "LINKNAME": "Demo",
+            "LINKDESC": "Optimized for Desktops",
+            "LINKURL": "http://mms-demo.enteetee-games.com/"
+          }]
+      },
+	  {
+        "NAME": "SOCIAL RECRUITING ACCELERATOR",
+        "DESCRIPTION": "Social Media is the new playground for recruitment. This tool will analyse the standings of different potential recruits and current employees in their social impact parameters.",
+        "IMAGEURL": "pageImage/SocialRecruitment.png",
+        "LINKS": [{
+            "LINKNAME": "Demo",
+            "LINKDESC": "Optimized for Desktops",
+            "LINKURL": "http://ntt-social.enteetee-gamification.com/html5/index.html"
+          }]
+      }
+    ]
+}
